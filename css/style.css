@@ -1,0 +1,14 @@
+:root { --mavi: #6bc2f1; }
+header { background: url('../img/headerbg.jpg') center/cover; }
+.bg-transp-white { background: rgba(255, 255, 255, .8) }
+.bg-mavi { background: var(--mavi); }
+.text-mavi { color: var(--mavi); }
+.text-tmavi { color: #1e7fb4; }
+.vh-50 { height: 50vh; }
+.vh-70 { height: 70vh; }
+#fimg1 { background: url('../img/fimg1.jpg') center/cover; }
+#fimg2 { background: url('../img/fimg2.jpg') center/cover; }
+#fimg1:hover, #fimg2:hover { opacity: .5 }
+#message { height: 200px; }
+#portfolio { background: #f1f1f1; }
+footer { background: #072035; }
